@@ -7,23 +7,26 @@ In this course, you’ll learn how to use Amazon Web Services to keep your data 
 - Familiarity with AWS Compute Solutions
 
 #### Course Learning Objectives:
-- Learner will be able to explain the difference between AWS Storage solutions (like S3, EBS, EFS, and FSx) and their use cases.
+- Learner will be able to explain the difference between AWS Storage solutions (like S3, EBS, amd EFS) and their use cases.
 - Learner will be able to create and optimize a storage solution using S3 and EBS.
 - Learner will be able to explain how to secure and optimize storage solutions.
 
 
 ### Chapter 1: Different AWS Storage Solutions
 
-#### Lesson 1.1: What Is AWS Storage?
+
+#### Lesson 1.1: Why Use Cloud Storage?
+- Learner will be able to discuss the pros and cons of using cloud storage.
+- Learner will be able to explain how concepts like durability, reliability, scalability, and security relate to cloud storage.
+
+#### Lesson 1.2: Storage with AWS
 - Learner will be able to identify common use cases for AWS storage solutions
 - Learner will be able to explain how AWS Storage Solutions are connected to AWS Compute Solutions
 - Learner will be able to explain the basic pricing structure of AWS Storage Solutions
 
-#### Lesson 1.2: Different AWS Storage Solutions
-- Learner will be able to explain the primary difference between AWS Storage Solutions (S3, EBS, EFS, and FSx)
-- Learner will be able to compare the pricing tradeoff between Storage solutions
-
-#### Lesson 1.3: AWS Storage Use Cases
+#### Lesson 1.3: Different AWS Storage Solutions
+- Learner will be able to explain the primary difference between AWS Storage Solutions (S3, EBS, and EF)
+- Learners will be able to classify storage solutions as Object, File, or Block solutions
 - Learner will be able to distinguish the proper AWS Storage solution for a given use case.
 
 ### Chapter 2: Creating Your First S3 Bucket
