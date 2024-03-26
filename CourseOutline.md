@@ -7,7 +7,7 @@ In this course, you’ll learn how to use Amazon Web Services to keep your data 
 - Familiarity with AWS Compute Solutions
 
 #### Course Learning Objectives:
-- Learner will be able to explain the difference between AWS Storage solutions (like S3, EBS, amd EFS) and their use cases.
+- Learner will be able to explain the difference between AWS Storage solutions (like S3, EBS, and EFS) and their use cases.
 - Learner will be able to create and optimize a storage solution using S3 and EBS.
 - Learner will be able to explain how to secure and optimize storage solutions.
 
@@ -16,7 +16,7 @@ In this course, you’ll learn how to use Amazon Web Services to keep your data 
 
 
 #### Lesson 1.1: Why Use Cloud Storage?
-- Learner will be able to discuss the pros and cons of using cloud storage.
+- Learner will be able to discuss the advantages and disadvantages of using cloud storage compared to local storage.
 - Learner will be able to explain how concepts like durability, reliability, scalability, and security relate to cloud storage.
 
 #### Lesson 1.2: Storage with AWS
