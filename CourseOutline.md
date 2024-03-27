@@ -1,5 +1,5 @@
 # Course: Introduction to AWS Storage Solutions
-In this course, you’ll learn how to use Amazon Web Services to keep your data safe and secure in the cloud. We’ll teach you the ins and outs of AWS’s storage services like S3, EBS, and EFS, so you know which solution is the right one for your needs. You’ll also get hands-on experience configuring and optimizing S3 and EBS instances to store your data as cost-effectively as possible.
+In this course, you’ll learn how to use Amazon Web Services to keep your data safe and secure in the cloud. We’ll teach you the ins and outs of AWS’s storage services like S3, EBS, and EFS, so you know which solution is the right one for your needs. You’ll also get hands-on experience configuring and optimizing these three storage solutions to store your data as cost-effectively as possible.
 
 #### Prerequisites:
 - An understanding of cloud fundamentals
@@ -8,12 +8,10 @@ In this course, you’ll learn how to use Amazon Web Services to keep your data 
 
 #### Course Learning Objectives:
 - Learner will be able to explain the difference between AWS Storage solutions (like S3, EBS, and EFS) and their use cases.
-- Learner will be able to create and optimize a storage solution using S3 and EBS.
+- Learner will be able to create and optimize a storage solution using S3, EBS, and EFS.
 - Learner will be able to explain how to secure and cost-optimize storage solutions.
 
-
 ### Chapter 1: Different AWS Storage Solutions
-
 
 #### Lesson 1.1: Why Use Cloud Storage?
 - Learner will be able to discuss the advantages and disadvantages of using cloud storage compared to local storage.
@@ -65,3 +63,18 @@ In this course, you’ll learn how to use Amazon Web Services to keep your data 
 - Learner will be able to differentiate different tracking tools (CloudTrail, CloudWatch, EventBridge)
 - Learners will be able to use CloudWatch to track usage metrics
 - Learners will be able to create an alert using CloudWatch
+
+### Chapter 4: Create a Network FIle System with EFS
+
+#### Lesson 4.1: Create and Use an EFS System
+- Learner will be able to create an EFS system and connect it to a virtual machine (EC2 instance)
+- Learner will be able to differentiate uses cases of EFS file system types and storage classes
+
+#### Lesson 4.2: EFS Performance and Security
+- Learner will create identity and resource based policies with IAM
+- Learner will explore the Amazon EFS console to monitor EFS performance
+- Learner will use CloudWatch and explain how its use differs from EBS monitoring
+
+#### Lesson 4.3: Differences Between EBS and EFS
+- Learner will compare the differences between the workflows of using EBS and EFS.
+- Learner will identify the key distinguishing features of EBS and EFS systems. 
