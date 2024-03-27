@@ -9,7 +9,7 @@ In this course, you’ll learn how to use Amazon Web Services to keep your data 
 #### Course Learning Objectives:
 - Learner will be able to explain the difference between AWS Storage solutions (like S3, EBS, and EFS) and their use cases.
 - Learner will be able to create and optimize a storage solution using S3 and EBS.
-- Learner will be able to explain how to secure and optimize storage solutions.
+- Learner will be able to explain how to secure and cost-optimize storage solutions.
 
 
 ### Chapter 1: Different AWS Storage Solutions
