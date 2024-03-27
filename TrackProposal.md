@@ -34,7 +34,7 @@ Justification: In order to implement a solution using EC2, learners should have 
 - Learners will be able to explain how to scale and secure a cost-effective AWS compute solution.
 
 ### Course 3: Introduction To AWS Storage Solutions
-In this course, you’ll learn how to use Amazon Web Services to keep your data safe and secure in the cloud. We’ll teach you the ins and outs of AWS’s storage services like S3, EBS, EFS, and FSx so you know which solution is the right one for your needs. You’ll also get hands-on experience configuring and optimizing S3 and EBS instances to store your data as cost-effectively as possible.
+In this course, you’ll learn how to use Amazon Web Services to keep your data safe and secure in the cloud. We’ll teach you the ins and outs of AWS’s storage services like S3, EBS, and EFS so you know which solution is the right one for your needs. You’ll also get hands-on experience configuring and optimizing these three solutions to store your data as cost-effectively as possible.
 
 #### Prerequisites:
 - An understanding of cloud computing fundamentals
